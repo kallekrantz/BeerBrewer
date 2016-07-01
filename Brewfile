@@ -13,6 +13,7 @@ brew 'python'
 brew 'htop'
 brew 'emacs-plus', args: ['with-cocoa', 'with-gnustl', 'with-librsvg', 'with-imagemagick']
 brew 'gnu-tar'
+brew 'pyenv-virtualenv'
 
 cask 'iterm2-beta'
 cask 'alfred'
